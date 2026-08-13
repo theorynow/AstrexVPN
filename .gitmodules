@@ -1,0 +1,12 @@
+[submodule "modules/server-node"]
+	path = modules/server-node
+	url = https://github.com/theorynow/AstrexVPN-server-node.git
+[submodule "modules/server-hub"]
+	path = modules/server-hub
+	url = https://github.com/theorynow/AstrexVPN-server-hub.git
+[submodule "modules/site"]
+	path = modules/site
+	url = https://github.com/theorynow/AstrexVPN-site.git
+[submodule "modules/client"]
+	path = modules/client
+	url = https://github.com/theorynow/AstrexVPN-client.git
